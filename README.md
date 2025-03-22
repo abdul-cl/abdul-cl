@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a machine learning project that detect sign language in real time<br>🌱 I’m currently learning Tensorflow, Javascript and AWS<br>🎓 Currently a second year Computer Science student at the Univerisity of Western Ontario, Canada<br>🌐 Programming since 2023
+🔭 I’m currently working on a machine learning project that detect sign language in real time<br>🌱 I’m currently learning Tensorflow, Javascript and AWS<br>🎓 Currently a second year Computer Science student at the Univerisity of Western Ontario, Canada<br>🌐 Programming since 2023<br>🧑‍💻 Seeking Summer 2025 Internsships
 
 
 ## 🌐 Socials:
